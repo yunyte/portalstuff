@@ -1,0 +1,15 @@
+[submodule "jlinc-spec"]
+	path = jlinc-spec
+	url = https://github.com/jlinclabs/jlinc-spec
+[submodule "rights-holder-agent"]
+	path = rights-holder-agent
+	url = https://github.com/jlinclabs/rights-holder-agent
+[submodule "jlinclabs-api-manual"]
+	path = jlinclabs-api-manual
+	url = https://github.com/jlinclabs/jlinclabs-api-manual
+[submodule "jlinc-responder"]
+	path = jlinc-responder
+	url = https://github.com/jlinclabs/jlinc-responder
+[submodule "SuiteCRM"]
+	path = SuiteCRM
+	url = https://github.com/salesagility/SuiteCRM
